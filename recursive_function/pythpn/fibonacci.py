@@ -1,5 +1,6 @@
 #フィボナッチ数列
 
+print("数字を入力")
 n = int(input())  # 入力
 
 def fib(n):
