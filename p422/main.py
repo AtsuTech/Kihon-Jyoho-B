@@ -22,6 +22,7 @@ def kNearestNeighbors(trailData,trailLabel,data,k):
         yi = trailData[i,2]
         #dist = 
 
+
     return
 
 
