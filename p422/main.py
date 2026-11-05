@@ -1,17 +1,5 @@
 
-def pow(a,b):
-    temp = a
-    # for i in range(b):
-    #     if(i==0):
-    #         a=a
-    #     else:
-    #         a*=a
-    for i in range(b):
-        temp = temp*a
-    return a
-
-
-print(pow(3,3))
+#print(pow(3,3))
 
 def kNearestNeighbors(trailData,trailLabel,data,k):
     itemRank = []
